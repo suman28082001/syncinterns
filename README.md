@@ -1,2 +1,3 @@
 # syncinterns
-Task 1
+Task 1-Snake Game
+
